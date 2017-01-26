@@ -6,3 +6,4 @@ This repos is used to evaluate GIT-HUBs features. Very interesting is to test th
 Author: Alexander Bergslilja <albe@wsi.nu>
 
 ###Test issue tracking
+Commiting this to close issue.
